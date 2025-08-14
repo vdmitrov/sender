@@ -1,0 +1,13 @@
+{
+  "use_text": true,
+  "use_custom": true,
+  "use_forward": false,
+  "forward_data": {},
+  "enabled": true,
+  "photo_data": {
+    "type": "photo",
+    "file": "images/logo.jpg",
+    "caption": ""
+  }
+}
+
